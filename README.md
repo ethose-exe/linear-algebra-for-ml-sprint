@@ -3,7 +3,7 @@
 This course is designed to take you from basic notation to advanced concepts like SVD in just 4 days.
 
 ## 📅 Schedule
-- **[Day 1: The Launchpad](./day-01-fundamentals/)**: Notation, Absolute Values, and Trigonometry.
+- **[Day 1: The Launchpad]**: Notation, Absolute Values, and Trigonometry.
 - **Day 2: Linear Transformations**: Matrix operations and systems of equations.
 - **Day 3: Eigenvalues & PCA**: Finding patterns in data.
 - **Day 4: SVD & Optimization**: Advanced decomposition and ML applications.
